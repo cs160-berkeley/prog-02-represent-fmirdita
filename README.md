@@ -15,6 +15,7 @@ https://youtu.be/Ut3G_6bewCM
 <img src="screenshots/main.png" height="300" alt="Screenshot"/>
 <img src="screenshots/vote.png" height="200" alt="2012 Presidential Voting Results"/>
 <img src="screenshots/watch.png" height="200" alt="Browse Reps on Watch"/>
+<img src="screenshots/watch_browse.png" height="200" alt="Browse Reps on Watch"/>
 <img src="screenshots/browse.png" height="300" alt="Browse on Phone"/>
 <img src="screenshots/details.png" height="300" "Select a Rep on Watch or Phone to see Details"/>
 
