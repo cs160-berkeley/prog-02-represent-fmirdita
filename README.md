@@ -1,20 +1,23 @@
 # PROG 02: Represent!
 
-Briefly describe your app here.
+This app allows users to view representatives of their current location, or of any zipcode in the US. Another feature is a randomized zipcode, which is initiated by shaking the android wear device. 
 
 ## Authors
 
-FirstName LastName ([your_email@berkeley.edu](mailto:your_email@berkeley.edu))
+Filip Mirdita atidirmpilif@berkeley.edu
 
 ## Demo Video
 
-See [your demo video title here] (https://link_to_your_video)
+https://youtu.be/Ut3G_6bewCM
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/main.png" height="300" alt="Screenshot"/>
+<img src="screenshots/vote.png" height="200" alt="2012 Presidential Voting Results"/>
+<img src="screenshots/watch.png" height="200" alt="Browse Reps on Watch"/>
+<img src="screenshots/browse.png" height="300" alt="Browse on Phone"/>
+<img src="screenshots/details.png" height="300" "Select a Rep on Watch or Phone to see Details"/>
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Any other support
+* Hat tip to everyone on the internet for letting me copy and paste their code, but then modify and merge it enough with other people's code to the point where it's very difficult to credit anyone in particular, but that's just the era we live in so institutionalized education systems will need to learn to deal.
